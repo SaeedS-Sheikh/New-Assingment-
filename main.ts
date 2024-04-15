@@ -115,7 +115,7 @@ if (randomNum1 > 0) {
 } else if (randomNum1 < 0) {
   console.log("Negative");
 } else {
-  console.log("Zero");
+  console.log("Hero");
 }
 // let randomNum = 0;
 // const numb1 = Math.sign(randomNum);
@@ -133,4 +133,4 @@ for (let i = 1; i <= 10; i++) {
   console.log(`${tabNum} X ${i} = ${tabNum * i}`);
 }
 
-// Questiohn 14 isn't Available 
+console.log("Hello Desktop");
