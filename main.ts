@@ -107,6 +107,9 @@ if ((leapYear % 4 == 0 && leapYear % 100 !== 0) || leapYear % 400 == 0) {
 }
 
 //14
+const fahren = 98;
+let result = ((fahren - 32) * 5) / 9;
+console.log(result);
 
 // 15
 let randomNum1 = -10;
