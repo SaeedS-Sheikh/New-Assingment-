@@ -135,5 +135,3 @@ const tabNum = 3;
 for (let i = 1; i <= 10; i++) {
   console.log(`${tabNum} X ${i} = ${tabNum * i}`);
 }
-
-console.log("Hello Desktop");
